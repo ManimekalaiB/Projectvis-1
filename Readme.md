@@ -1,1 +1,1 @@
-Project management tool
+GanttProject is a Project management tool
